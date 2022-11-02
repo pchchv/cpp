@@ -1,5 +1,7 @@
 #include<iostream>
+
 using namespace std;
+
 int bubble_sort(int n, int *arr)
 {
     int i, j, temp;
